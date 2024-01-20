@@ -1,0 +1,131 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foto{
+    height: 300px;
+    width: 300px;
+    background-color: #1D4356;
+    margin-top: 50px
+}  
+.imagen{
+    height: 250px;
+    width: 250px;
+    background-size: cover;
+    border-radius: 50%;
+    padding: 25px;   
+    
+}  
+.nombre{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.segundodiv{
+    height: 550px;
+    width: 300px;
+    border-color: brown;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+.tercerdiv{
+    height: 250px;
+    width: 300px;
+    background-color: #1D4356;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+    border: 2px;
+    border-style: solid;
+    border-color: #1D4356;
+    
+
+}
+.tabla{
+    margin: auto;
+}
+.cuartodiv{
+    height: 550px;
+    width: 300px;
+    text-align: center;
+}
+.quintodiv{
+    height: 1100px;
+    width: 300px;
+    text-align: center;
+}
+.infoper{
+    text-align: left;
+    padding: 0px;
+    margin: 0%;
+    border: 0px;    
+}
+.email_imagen{
+    height: 30px;
+    width: 40px;
+    padding: 0px;
+    margin: 0%;
+    border: 0px;
+}
+.interes{
+    text-align: left;
+    padding-left: 25px;
+}
+.p1{
+    border: 1px;
+    border-style: solid;
+    border-radius : 5px;
+    border-color: white;
+}
+.telefono{
+    height: 40px;
+    width: 40px;
+    padding: 0px;
+    margin: 0%;
+    border: 0px; 
+}
+.ubicacion{
+    height: 40px;
+    width: 40px; 
+}
+.idiomas{
+    height: 70px;
+    width: 300px;
+}
+.margen{
+    margin: 5px;
+    text-align: left;
+}
+.margen2{
+    margin: 3px;
+    text-align: left;
+    font-size: large;
+}
+.margen3{
+    margin: 3px;
+    text-align: left;
+    font-size: medium;
+}
+.margen4{
+    margin: 3px;
+    text-align: left;
+    font-size: medium;
+    text-align: justify;
+}
+.linkedin{
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.lenguajes{
+    width: 250px;
+    height: 250px;
+}
+.competencias{
+    text-align: left;
+    padding-left: 40px;
+}
+.contactos{
+    padding: 0 auto;
+    margin: 1px;
+}
